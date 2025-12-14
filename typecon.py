@@ -1,0 +1,10 @@
+num1=int(input("Enter a number: "))
+num2=float(input("Enter another number in float: "))
+result=num1+num2
+print(result)
+num2=float(input("Enter a float number : "))
+result=int(num2)
+print("Convertion of float to int:",result)
+num1=int(input("Enter a int number : "))
+result=float(num1)
+print("Convertion of int to float:",result)
